@@ -13,7 +13,7 @@
 
 En la carpeta Ejerccio01 se encuentra el archivo docker-compose.yml
 
-### Initialitation
+### Inicializar
 
 Para ejecutar el docker-compose.yml debemos de ejecutar los siguiente comandos.
 
@@ -43,7 +43,7 @@ Este proyecto se uso plugin para mejorar facilitar el desarollo.
 | ------- | --------------------------------------- |
 | nodemon | [https://www.npmjs.com/package/nodemon] |
 
-### Initialitation
+### Inicializar
 
 Para obtener las dependencias del proyecto, debemos ubicarnos en la carpeta Ejercicio02 y ejecutar los siguientes comandos.
 
