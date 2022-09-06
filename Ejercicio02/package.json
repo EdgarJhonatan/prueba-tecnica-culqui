@@ -1,0 +1,15 @@
+{
+  "name": "ejercicio02",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "ejerccio02.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
